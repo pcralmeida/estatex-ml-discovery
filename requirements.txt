@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+playwright
+httpx
+qdrant-client
+redis
+torch
+torchvision
+sentence-transformers
+python-multipart
